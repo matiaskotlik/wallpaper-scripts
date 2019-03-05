@@ -8,7 +8,7 @@ Restart your shell, and now you can call set-wallpaper /path/to/image/or/video t
 
 # Video Wallpapers
 You need to have the [VideoWallpaper](https://store.kde.org/p/1213488) plugin installed in order to set a video as your wallpaper.
-From the VideoWallpaper link on how to install:
+From the VideoWallpaper link on how to install (and remove!):
 
 ```
 Install:
