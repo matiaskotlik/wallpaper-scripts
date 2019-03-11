@@ -3,7 +3,7 @@ A script to change my wallpaper from the cli. Works only on KDE Plasma.
 
 # How to use
 Link to `set-wallpaper.py` somewhere in your path, for example,
-`ln -s /clone/directory/set-wallpaper.py /home/matias/bin/set-wallpaper`.
+`ln -s /clone/directorywallpaper-scripts/set-wallpaper.py /home/$USER/bin/set-wallpaper`.
 Restart your shell, and now you can call set-wallpaper /path/to/image/or/video to set your wallpaper.
 
 # Video Wallpapers
